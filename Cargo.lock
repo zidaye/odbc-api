@@ -1225,8 +1225,7 @@ dependencies = [
 [[package]]
 name = "odbc-sys"
 version = "0.21.2"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5fa96a125cee9f1fe33cb69d6517466afc4e9cb1f44afdcc67210e2776aec7b2"
+source = "git+https://ghproxy.com/https://github.com/zidaye/odbc-sys.git?branch=feature/add_SQLNUMParams#28a8b085ce06f9f276c9b8505fac75a2bcd79103"
 
 [[package]]
 name = "odbcsv"
